@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /_archive/
 
-Sitemap: https://agaperenovation.fr/sitemap.xml
+Sitemap: https://www.agaperenovation.fr/sitemap.xml

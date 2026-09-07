@@ -2,618 +2,607 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://agaperenovation.fr/</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/"/>
+    <loc>https://www.agaperenovation.fr/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/"/>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/en/</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/"/>
+    <loc>https://www.agaperenovation.fr/en/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/"/>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/ru/</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/"/>
+    <loc>https://www.agaperenovation.fr/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/"/>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/services.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/services.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/services.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/services.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/services.html"/>
+    <loc>https://www.agaperenovation.fr/services.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/services.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/services.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/services.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/services.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/en/services.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/services.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/services.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/services.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/services.html"/>
+    <loc>https://www.agaperenovation.fr/en/services.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/services.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/services.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/services.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/services.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/ru/services.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/services.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/services.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/services.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/services.html"/>
+    <loc>https://www.agaperenovation.fr/ru/services.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/services.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/services.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/services.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/services.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/realisations.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/realisations.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/projects.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekty.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/realisations.html"/>
+    <loc>https://www.agaperenovation.fr/realisations.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/realisations.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/projects.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekty.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/realisations.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/en/projects.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/realisations.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/projects.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekty.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/realisations.html"/>
+    <loc>https://www.agaperenovation.fr/en/projects.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/realisations.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/projects.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekty.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/realisations.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/ru/proekty.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/realisations.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/projects.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekty.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/realisations.html"/>
+    <loc>https://www.agaperenovation.fr/ru/proekty.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/realisations.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/projects.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekty.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/realisations.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/a-propos.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/a-propos.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/about.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/o-nas.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/a-propos.html"/>
+    <loc>https://www.agaperenovation.fr/a-propos.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/a-propos.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/o-nas.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/a-propos.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/en/about.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/a-propos.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/about.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/o-nas.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/a-propos.html"/>
+    <loc>https://www.agaperenovation.fr/en/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/a-propos.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/o-nas.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/a-propos.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/ru/o-nas.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/a-propos.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/about.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/o-nas.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/a-propos.html"/>
+    <loc>https://www.agaperenovation.fr/ru/o-nas.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/a-propos.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/o-nas.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/a-propos.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/journal.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/journal.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/journal.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/zhurnal.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/journal.html"/>
+    <loc>https://www.agaperenovation.fr/journal.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/journal.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/journal.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/zhurnal.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/journal.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/en/journal.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/journal.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/journal.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/zhurnal.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/journal.html"/>
+    <loc>https://www.agaperenovation.fr/en/journal.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/journal.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/journal.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/zhurnal.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/journal.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/ru/zhurnal.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/journal.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/journal.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/zhurnal.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/journal.html"/>
+    <loc>https://www.agaperenovation.fr/ru/zhurnal.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/journal.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/journal.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/zhurnal.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/journal.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/contact.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/contact.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/contact.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/kontakty.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/contact.html"/>
+    <loc>https://www.agaperenovation.fr/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/kontakty.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/contact.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/en/contact.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/contact.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/contact.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/kontakty.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/contact.html"/>
+    <loc>https://www.agaperenovation.fr/en/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/kontakty.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/contact.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/ru/kontakty.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/contact.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/contact.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/kontakty.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/contact.html"/>
+    <loc>https://www.agaperenovation.fr/ru/kontakty.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/kontakty.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/contact.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/renovation-appartement-nice.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/renovation-appartement-nice.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/renovation-appartement-nice.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/renovation-appartement-nice.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/renovation-appartement-nice.html"/>
+    <loc>https://www.agaperenovation.fr/renovation-appartement-nice.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/renovation-appartement-nice.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/renovation-appartement-nice.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/renovation-appartement-nice.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/renovation-appartement-nice.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/en/renovation-appartement-nice.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/renovation-appartement-nice.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/renovation-appartement-nice.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/renovation-appartement-nice.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/renovation-appartement-nice.html"/>
+    <loc>https://www.agaperenovation.fr/en/renovation-appartement-nice.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/renovation-appartement-nice.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/renovation-appartement-nice.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/renovation-appartement-nice.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/renovation-appartement-nice.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/ru/renovation-appartement-nice.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/renovation-appartement-nice.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/renovation-appartement-nice.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/renovation-appartement-nice.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/renovation-appartement-nice.html"/>
+    <loc>https://www.agaperenovation.fr/ru/renovation-appartement-nice.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/renovation-appartement-nice.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/renovation-appartement-nice.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/renovation-appartement-nice.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/renovation-appartement-nice.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/renovation-villa-cannes.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/renovation-villa-cannes.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/renovation-villa-cannes.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/renovation-villa-cannes.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/renovation-villa-cannes.html"/>
+    <loc>https://www.agaperenovation.fr/renovation-villa-cannes.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/renovation-villa-cannes.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/renovation-villa-cannes.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/renovation-villa-cannes.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/renovation-villa-cannes.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/en/renovation-villa-cannes.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/renovation-villa-cannes.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/renovation-villa-cannes.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/renovation-villa-cannes.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/renovation-villa-cannes.html"/>
+    <loc>https://www.agaperenovation.fr/en/renovation-villa-cannes.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/renovation-villa-cannes.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/renovation-villa-cannes.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/renovation-villa-cannes.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/renovation-villa-cannes.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/ru/renovation-villa-cannes.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/renovation-villa-cannes.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/renovation-villa-cannes.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/renovation-villa-cannes.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/renovation-villa-cannes.html"/>
+    <loc>https://www.agaperenovation.fr/ru/renovation-villa-cannes.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/renovation-villa-cannes.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/renovation-villa-cannes.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/renovation-villa-cannes.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/renovation-villa-cannes.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/entreprise-tous-corps-detat-antibes.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/entreprise-tous-corps-detat-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/entreprise-tous-corps-detat-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/entreprise-tous-corps-detat-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/entreprise-tous-corps-detat-antibes.html"/>
+    <loc>https://www.agaperenovation.fr/entreprise-tous-corps-detat-antibes.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/entreprise-tous-corps-detat-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/entreprise-tous-corps-detat-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/entreprise-tous-corps-detat-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/entreprise-tous-corps-detat-antibes.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/en/entreprise-tous-corps-detat-antibes.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/entreprise-tous-corps-detat-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/entreprise-tous-corps-detat-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/entreprise-tous-corps-detat-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/entreprise-tous-corps-detat-antibes.html"/>
+    <loc>https://www.agaperenovation.fr/en/entreprise-tous-corps-detat-antibes.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/entreprise-tous-corps-detat-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/entreprise-tous-corps-detat-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/entreprise-tous-corps-detat-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/entreprise-tous-corps-detat-antibes.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/ru/entreprise-tous-corps-detat-antibes.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/entreprise-tous-corps-detat-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/entreprise-tous-corps-detat-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/entreprise-tous-corps-detat-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/entreprise-tous-corps-detat-antibes.html"/>
+    <loc>https://www.agaperenovation.fr/ru/entreprise-tous-corps-detat-antibes.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/entreprise-tous-corps-detat-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/entreprise-tous-corps-detat-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/entreprise-tous-corps-detat-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/entreprise-tous-corps-detat-antibes.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/renovation-haut-de-gamme-cote-dazur.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/renovation-haut-de-gamme-cote-dazur.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/renovation-haut-de-gamme-cote-dazur.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/renovation-haut-de-gamme-cote-dazur.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/renovation-haut-de-gamme-cote-dazur.html"/>
+    <loc>https://www.agaperenovation.fr/renovation-haut-de-gamme-cote-dazur.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/renovation-haut-de-gamme-cote-dazur.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/renovation-haut-de-gamme-cote-dazur.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/renovation-haut-de-gamme-cote-dazur.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/renovation-haut-de-gamme-cote-dazur.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/en/renovation-haut-de-gamme-cote-dazur.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/renovation-haut-de-gamme-cote-dazur.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/renovation-haut-de-gamme-cote-dazur.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/renovation-haut-de-gamme-cote-dazur.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/renovation-haut-de-gamme-cote-dazur.html"/>
+    <loc>https://www.agaperenovation.fr/en/renovation-haut-de-gamme-cote-dazur.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/renovation-haut-de-gamme-cote-dazur.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/renovation-haut-de-gamme-cote-dazur.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/renovation-haut-de-gamme-cote-dazur.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/renovation-haut-de-gamme-cote-dazur.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/ru/renovation-haut-de-gamme-cote-dazur.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/renovation-haut-de-gamme-cote-dazur.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/renovation-haut-de-gamme-cote-dazur.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/renovation-haut-de-gamme-cote-dazur.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/renovation-haut-de-gamme-cote-dazur.html"/>
+    <loc>https://www.agaperenovation.fr/ru/renovation-haut-de-gamme-cote-dazur.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/renovation-haut-de-gamme-cote-dazur.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/renovation-haut-de-gamme-cote-dazur.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/renovation-haut-de-gamme-cote-dazur.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/renovation-haut-de-gamme-cote-dazur.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/renovation-commerce-nice.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/renovation-commerce-nice.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/renovation-commerce-nice.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/renovation-commerce-nice.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/renovation-commerce-nice.html"/>
+    <loc>https://www.agaperenovation.fr/renovation-commerce-nice.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/renovation-commerce-nice.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/renovation-commerce-nice.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/renovation-commerce-nice.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/renovation-commerce-nice.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/en/renovation-commerce-nice.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/renovation-commerce-nice.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/renovation-commerce-nice.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/renovation-commerce-nice.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/renovation-commerce-nice.html"/>
+    <loc>https://www.agaperenovation.fr/en/renovation-commerce-nice.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/renovation-commerce-nice.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/renovation-commerce-nice.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/renovation-commerce-nice.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/renovation-commerce-nice.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/ru/renovation-commerce-nice.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/renovation-commerce-nice.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/renovation-commerce-nice.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/renovation-commerce-nice.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/renovation-commerce-nice.html"/>
+    <loc>https://www.agaperenovation.fr/ru/renovation-commerce-nice.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/renovation-commerce-nice.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/renovation-commerce-nice.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/renovation-commerce-nice.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/renovation-commerce-nice.html"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <!-- Journal article 1: Étapes rénovation -->
   <url>
-    <loc>https://agaperenovation.fr/journal-etapes-renovation-appartement-nice.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/journal-etapes-renovation-appartement-nice.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/journal-apartment-renovation-stages-nice.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/zhurnal-etapy-renovatsii-kvartiry.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/journal-etapes-renovation-appartement-nice.html"/>
+    <loc>https://www.agaperenovation.fr/journal-etapes-renovation-appartement-nice.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/journal-etapes-renovation-appartement-nice.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/journal-apartment-renovation-stages-nice.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/zhurnal-etapy-renovatsii-kvartiry.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/journal-etapes-renovation-appartement-nice.html"/>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/en/journal-apartment-renovation-stages-nice.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/journal-etapes-renovation-appartement-nice.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/journal-apartment-renovation-stages-nice.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/zhurnal-etapy-renovatsii-kvartiry.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/journal-etapes-renovation-appartement-nice.html"/>
+    <loc>https://www.agaperenovation.fr/en/journal-apartment-renovation-stages-nice.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/journal-etapes-renovation-appartement-nice.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/journal-apartment-renovation-stages-nice.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/zhurnal-etapy-renovatsii-kvartiry.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/journal-etapes-renovation-appartement-nice.html"/>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/ru/zhurnal-etapy-renovatsii-kvartiry.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/journal-etapes-renovation-appartement-nice.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/journal-apartment-renovation-stages-nice.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/zhurnal-etapy-renovatsii-kvartiry.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/journal-etapes-renovation-appartement-nice.html"/>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- Journal article 2: Garantie décennale -->
-  <url>
-    <loc>https://agaperenovation.fr/journal-garantie-decennale.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/journal-garantie-decennale.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/journal-decennial-guarantee.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/zhurnal-desyatiletnyaya-garantiya.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/journal-garantie-decennale.html"/>
+    <loc>https://www.agaperenovation.fr/ru/zhurnal-etapy-renovatsii-kvartiry.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/journal-etapes-renovation-appartement-nice.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/journal-apartment-renovation-stages-nice.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/zhurnal-etapy-renovatsii-kvartiry.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/journal-etapes-renovation-appartement-nice.html"/>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/en/journal-decennial-guarantee.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/journal-garantie-decennale.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/journal-decennial-guarantee.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/zhurnal-desyatiletnyaya-garantiya.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/journal-garantie-decennale.html"/>
+    <loc>https://www.agaperenovation.fr/journal-garantie-decennale.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/journal-garantie-decennale.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/journal-decennial-guarantee.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/zhurnal-desyatiletnyaya-garantiya.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/journal-garantie-decennale.html"/>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/ru/zhurnal-desyatiletnyaya-garantiya.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/journal-garantie-decennale.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/journal-decennial-guarantee.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/zhurnal-desyatiletnyaya-garantiya.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/journal-garantie-decennale.html"/>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- Journal article 3: Un seul interlocuteur -->
-  <url>
-    <loc>https://agaperenovation.fr/journal-un-seul-interlocuteur.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/journal-un-seul-interlocuteur.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/journal-single-point-of-contact.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/zhurnal-odin-podryadchik.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/journal-un-seul-interlocuteur.html"/>
+    <loc>https://www.agaperenovation.fr/en/journal-decennial-guarantee.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/journal-garantie-decennale.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/journal-decennial-guarantee.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/zhurnal-desyatiletnyaya-garantiya.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/journal-garantie-decennale.html"/>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/en/journal-single-point-of-contact.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/journal-un-seul-interlocuteur.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/journal-single-point-of-contact.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/zhurnal-odin-podryadchik.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/journal-un-seul-interlocuteur.html"/>
+    <loc>https://www.agaperenovation.fr/ru/zhurnal-desyatiletnyaya-garantiya.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/journal-garantie-decennale.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/journal-decennial-guarantee.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/zhurnal-desyatiletnyaya-garantiya.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/journal-garantie-decennale.html"/>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/ru/zhurnal-odin-podryadchik.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/journal-un-seul-interlocuteur.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/journal-single-point-of-contact.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/zhurnal-odin-podryadchik.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/journal-un-seul-interlocuteur.html"/>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- Project: Villa Promenade -->
-  <url>
-    <loc>https://agaperenovation.fr/projet-villa-promenade.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/projet-villa-promenade.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/project-villa-promenade.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekt-villa-promenad.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/projet-villa-promenade.html"/>
+    <loc>https://www.agaperenovation.fr/journal-un-seul-interlocuteur.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/journal-un-seul-interlocuteur.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/journal-single-point-of-contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/zhurnal-odin-podryadchik.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/journal-un-seul-interlocuteur.html"/>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/en/project-villa-promenade.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/projet-villa-promenade.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/project-villa-promenade.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekt-villa-promenad.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/projet-villa-promenade.html"/>
+    <loc>https://www.agaperenovation.fr/en/journal-single-point-of-contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/journal-un-seul-interlocuteur.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/journal-single-point-of-contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/zhurnal-odin-podryadchik.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/journal-un-seul-interlocuteur.html"/>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/ru/proekt-villa-promenad.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/projet-villa-promenade.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/project-villa-promenade.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekt-villa-promenad.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/projet-villa-promenade.html"/>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- Project: Alberti 2ème -->
-  <url>
-    <loc>https://agaperenovation.fr/projet-alberti-2eme.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/projet-alberti-2eme.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/project-alberti-2nd.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekt-alberti-2.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/projet-alberti-2eme.html"/>
+    <loc>https://www.agaperenovation.fr/ru/zhurnal-odin-podryadchik.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/journal-un-seul-interlocuteur.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/journal-single-point-of-contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/zhurnal-odin-podryadchik.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/journal-un-seul-interlocuteur.html"/>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/en/project-alberti-2nd.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/projet-alberti-2eme.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/project-alberti-2nd.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekt-alberti-2.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/projet-alberti-2eme.html"/>
+    <loc>https://www.agaperenovation.fr/projet-villa-promenade.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/projet-villa-promenade.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/project-villa-promenade.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekt-villa-promenad.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/projet-villa-promenade.html"/>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/ru/proekt-alberti-2.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/projet-alberti-2eme.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/project-alberti-2nd.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekt-alberti-2.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/projet-alberti-2eme.html"/>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- Project: Alberti 1er -->
-  <url>
-    <loc>https://agaperenovation.fr/projet-alberti-1er.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/projet-alberti-1er.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/project-alberti-1st.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekt-alberti-1.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/projet-alberti-1er.html"/>
+    <loc>https://www.agaperenovation.fr/en/project-villa-promenade.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/projet-villa-promenade.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/project-villa-promenade.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekt-villa-promenad.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/projet-villa-promenade.html"/>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/en/project-alberti-1st.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/projet-alberti-1er.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/project-alberti-1st.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekt-alberti-1.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/projet-alberti-1er.html"/>
+    <loc>https://www.agaperenovation.fr/ru/proekt-villa-promenad.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/projet-villa-promenade.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/project-villa-promenade.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekt-villa-promenad.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/projet-villa-promenade.html"/>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/ru/proekt-alberti-1.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/projet-alberti-1er.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/project-alberti-1st.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekt-alberti-1.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/projet-alberti-1er.html"/>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- Project: Antibes -->
-  <url>
-    <loc>https://agaperenovation.fr/projet-antibes.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/projet-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/project-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekt-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/projet-antibes.html"/>
+    <loc>https://www.agaperenovation.fr/projet-alberti-2eme.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/projet-alberti-2eme.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/project-alberti-2nd.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekt-alberti-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/projet-alberti-2eme.html"/>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/en/project-antibes.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/projet-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/project-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekt-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/projet-antibes.html"/>
+    <loc>https://www.agaperenovation.fr/en/project-alberti-2nd.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/projet-alberti-2eme.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/project-alberti-2nd.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekt-alberti-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/projet-alberti-2eme.html"/>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/ru/proekt-antibes.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/projet-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/project-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekt-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/projet-antibes.html"/>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- Project: Vieil Antibes -->
-  <url>
-    <loc>https://agaperenovation.fr/projet-vieil-antibes.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/projet-vieil-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/project-vieil-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekt-staryj-antib.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/projet-vieil-antibes.html"/>
+    <loc>https://www.agaperenovation.fr/ru/proekt-alberti-2.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/projet-alberti-2eme.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/project-alberti-2nd.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekt-alberti-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/projet-alberti-2eme.html"/>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/en/project-vieil-antibes.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/projet-vieil-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/project-vieil-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekt-staryj-antib.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/projet-vieil-antibes.html"/>
+    <loc>https://www.agaperenovation.fr/projet-alberti-1er.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/projet-alberti-1er.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/project-alberti-1st.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekt-alberti-1.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/projet-alberti-1er.html"/>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/ru/proekt-staryj-antib.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/projet-vieil-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/project-vieil-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekt-staryj-antib.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/projet-vieil-antibes.html"/>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- Project: Cannes -->
-  <url>
-    <loc>https://agaperenovation.fr/projet-cannes.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/projet-cannes.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/project-cannes.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekt-kannes.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/projet-cannes.html"/>
+    <loc>https://www.agaperenovation.fr/en/project-alberti-1st.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/projet-alberti-1er.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/project-alberti-1st.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekt-alberti-1.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/projet-alberti-1er.html"/>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/en/project-cannes.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/projet-cannes.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/project-cannes.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekt-kannes.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/projet-cannes.html"/>
+    <loc>https://www.agaperenovation.fr/ru/proekt-alberti-1.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/projet-alberti-1er.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/project-alberti-1st.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekt-alberti-1.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/projet-alberti-1er.html"/>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/ru/proekt-kannes.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/projet-cannes.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/project-cannes.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekt-kannes.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/projet-cannes.html"/>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- Project: Cap d'Antibes -->
-  <url>
-    <loc>https://agaperenovation.fr/projet-cap-antibes.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/projet-cap-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/project-cap-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekt-kap-antib.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/projet-cap-antibes.html"/>
+    <loc>https://www.agaperenovation.fr/projet-antibes.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/projet-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/project-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekt-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/projet-antibes.html"/>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/en/project-cap-antibes.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/projet-cap-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/project-cap-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekt-kap-antib.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/projet-cap-antibes.html"/>
+    <loc>https://www.agaperenovation.fr/en/project-antibes.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/projet-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/project-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekt-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/projet-antibes.html"/>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/ru/proekt-kap-antib.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/projet-cap-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/project-cap-antibes.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekt-kap-antib.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/projet-cap-antibes.html"/>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- Project: Café Avec Toi -->
-  <url>
-    <loc>https://agaperenovation.fr/projet-cafe-avec-toi.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/projet-cafe-avec-toi.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/project-cafe-avec-toi.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekt-kafe.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/projet-cafe-avec-toi.html"/>
+    <loc>https://www.agaperenovation.fr/ru/proekt-antibes.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/projet-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/project-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekt-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/projet-antibes.html"/>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/en/project-cafe-avec-toi.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/projet-cafe-avec-toi.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/project-cafe-avec-toi.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekt-kafe.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/projet-cafe-avec-toi.html"/>
+    <loc>https://www.agaperenovation.fr/projet-vieil-antibes.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/projet-vieil-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/project-vieil-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekt-staryj-antib.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/projet-vieil-antibes.html"/>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://agaperenovation.fr/ru/proekt-kafe.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://agaperenovation.fr/projet-cafe-avec-toi.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://agaperenovation.fr/en/project-cafe-avec-toi.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://agaperenovation.fr/ru/proekt-kafe.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://agaperenovation.fr/projet-cafe-avec-toi.html"/>
+    <loc>https://www.agaperenovation.fr/en/project-vieil-antibes.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/projet-vieil-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/project-vieil-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekt-staryj-antib.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/projet-vieil-antibes.html"/>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.agaperenovation.fr/ru/proekt-staryj-antib.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/projet-vieil-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/project-vieil-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekt-staryj-antib.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/projet-vieil-antibes.html"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.agaperenovation.fr/projet-cannes.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/projet-cannes.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/project-cannes.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekt-kannes.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/projet-cannes.html"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.agaperenovation.fr/en/project-cannes.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/projet-cannes.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/project-cannes.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekt-kannes.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/projet-cannes.html"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.agaperenovation.fr/ru/proekt-kannes.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/projet-cannes.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/project-cannes.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekt-kannes.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/projet-cannes.html"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.agaperenovation.fr/projet-cap-antibes.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/projet-cap-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/project-cap-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekt-kap-antib.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/projet-cap-antibes.html"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.agaperenovation.fr/en/project-cap-antibes.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/projet-cap-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/project-cap-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekt-kap-antib.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/projet-cap-antibes.html"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.agaperenovation.fr/ru/proekt-kap-antib.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/projet-cap-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/project-cap-antibes.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekt-kap-antib.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/projet-cap-antibes.html"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.agaperenovation.fr/projet-cafe-avec-toi.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/projet-cafe-avec-toi.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/project-cafe-avec-toi.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekt-kafe.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/projet-cafe-avec-toi.html"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.agaperenovation.fr/en/project-cafe-avec-toi.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/projet-cafe-avec-toi.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/project-cafe-avec-toi.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekt-kafe.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/projet-cafe-avec-toi.html"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.agaperenovation.fr/ru/proekt-kafe.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agaperenovation.fr/projet-cafe-avec-toi.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agaperenovation.fr/en/project-cafe-avec-toi.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.agaperenovation.fr/ru/proekt-kafe.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agaperenovation.fr/projet-cafe-avec-toi.html"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.agaperenovation.fr/mentions-legales.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.agaperenovation.fr/politique-de-confidentialite.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
   </url>
 </urlset>
