@@ -145,6 +145,9 @@ document.documentElement.classList.add('js');
   const sel = document.getElementById('est-standing');
   if (!sel) return;
 
+  // ponytail: accessible name reused from the visible <label>, so it follows the page language
+  const selName = (document.querySelector('label[for="est-standing"]') || {}).textContent || 'Finition';
+
   const wrap = document.createElement('div');
   wrap.className = 'select-custom';
   const trigger = document.createElement('button');
@@ -152,6 +155,7 @@ document.documentElement.classList.add('js');
   trigger.className = 'select-trigger';
   trigger.setAttribute('aria-haspopup', 'listbox');
   trigger.setAttribute('aria-expanded', 'false');
+  trigger.setAttribute('aria-label', selName);
   const label = document.createElement('span');
   label.className = 'select-label';
   const caret = document.createElement('span');
@@ -162,6 +166,7 @@ document.documentElement.classList.add('js');
   const list = document.createElement('ul');
   list.className = 'select-list';
   list.setAttribute('role', 'listbox');
+  list.setAttribute('aria-label', selName);
 
   Array.from(sel.options).forEach((opt) => {
     const li = document.createElement('li');
