@@ -1755,3 +1755,12 @@ a.project-row:hover .project-link { color: var(--gold); }
   from { opacity: 0; transform: translateY(12px); }
   to { opacity: 1; transform: none; }
 }
+
+/* ================= FAQ ================= */
+.legal-content .faq h3 {
+  font-family: var(--sans);
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--ink);
+  margin: 24px 0 8px;
+}
