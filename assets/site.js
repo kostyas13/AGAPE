@@ -473,14 +473,14 @@ document.documentElement.classList.add('js');
       link: 'Learn more',
       accept: 'Accept',
       reject: 'Decline',
-      href: '/en/privacy-policy.html',
+      href: '/politique-de-confidentialite.html',
     },
     ru: {
       text: 'Этот сайт использует только необходимые cookie. ',
       link: 'Подробнее',
       accept: 'Принять',
       reject: 'Отклонить',
-      href: '/ru/politika-konfidencialnosti.html',
+      href: '/politique-de-confidentialite.html',
     },
   };
   var s = t[lang] || t.fr;
