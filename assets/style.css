@@ -1361,6 +1361,15 @@ img.footer-mark { object-fit: contain; }
 .footer-legal a { text-decoration: underline; text-underline-offset: 3px; transition: color .25s ease; }
 .footer-legal a:hover { color: var(--gold); }
 
+.footer-credit {
+  padding-top: 14px;
+  font-size: 12px;
+  color: var(--taupe);
+  text-align: right;
+}
+.footer-credit a { text-decoration: underline; text-underline-offset: 3px; transition: color .25s ease; }
+.footer-credit a:hover { color: var(--gold); }
+
 /* ================= fullscreen menu overlay ================= */
 .menu-overlay {
   position: fixed;
